@@ -1,3 +1,11 @@
+# Ruby on Rails Tutorial by Michael Hartl 2012
+
+This is the "sample_app" code from the tutorial
+
+MY FIRST BIG APP IN RAILS
+
+AFP 5/18/2012
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
